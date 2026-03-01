@@ -7,7 +7,7 @@
 ![HTML](https://img.shields.io/badge/built_with-HTML%20%2F%20CSS%20%2F%20JS-ff6b35?style=flat-square)
 ![No dependencies](https://img.shields.io/badge/dependencies-none-3dffa0?style=flat-square)
 
-🔗 **Live demo:** [fartektv.github.io/web.qr-studio](https://fartektv.github.io/web.qr-studio/)
+🔗 **Live demo:** [fartektv.github.io/web.qr-studio](https://fartektv.github.io/web.optim/)
 
 ---
 
